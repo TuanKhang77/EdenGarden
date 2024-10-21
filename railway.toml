@@ -1,0 +1,7 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "./EdenGarden_API/Dockerfile"
+
+[deploy]
+startCommand = "dotnet EdenGarden_API.dll"
+restartPolicyType = "never"

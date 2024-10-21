@@ -1,0 +1,35 @@
+navbar:
+-giới thiệu
+-đặt phòng
+-service 
+-tin tức
+-liên hệ
+
+
++đặt phòng:
+4 nút xếp dọc: suite, deluxe, family, normal
+cho phép đặt theo ngày, nhưng giờ sẽ cố định trả phòng 12h trưa 
+
++service:
+là trang giới thiệu về các service của khách sạn:
+-bể bơi: cho đặt chỗ và ngày giờ
+-Massage: ngày giờ
+-gym
+-menu sáng trưa tối
+Chỉ cho đặt service trong đặt phòng, trang service chỉ để giới thiệu 
+
+
+
+
++tin tức: để trống
+
++liên hệ: bú template của các web khách sạn khác
+
+
+
+
+Nghiệp vụ trong khách sạn:
+-manager: cho phép gia hạn phòng
+
+
+Làm memcached / redis

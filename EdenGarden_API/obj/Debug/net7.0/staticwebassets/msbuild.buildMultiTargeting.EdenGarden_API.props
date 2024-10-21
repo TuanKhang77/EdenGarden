@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EdenGarden_API.props" />
+</Project>
